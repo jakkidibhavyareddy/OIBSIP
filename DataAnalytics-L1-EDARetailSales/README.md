@@ -1,4 +1,4 @@
-# Retail Sales Data Analysis
+# Exploratory Data Analysis (EDA) on Retail Sales Data
 
 ## Oasis Infobyte Data Analytics Internship - Task 1
 
