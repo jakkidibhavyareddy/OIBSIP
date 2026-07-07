@@ -31,4 +31,4 @@ This project performs Exploratory Data Analysis (EDA) on the Superstore dataset 
 - Found relationships between Sales, Profit, Quantity, and Discount.
 
 ## Author
-**Bhavya Reddy**
+**Bhavya Sri Jakkidi**
